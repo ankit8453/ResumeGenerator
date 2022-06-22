@@ -1,0 +1,41 @@
+
+.background{
+    background-color: #003147;
+}
+.clip-circle{
+    clip-path: circle(46.1% at 50% 50%);
+    align-content: center;
+}
+.ank1{
+   
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+.container .left{
+    position: relative;
+    background: #003147;
+    padding: 40px;
+    align-items: center;
+    align-content: center;
+    color: #fff;
+}
+#CV-template{
+    display: none;
+}
+#heading{
+    text-decoration:underline;
+    font-family:'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 200;
+    text-shadow: 10px;
+}
+.sub{
+    color: darkolivegreen;
+    font-style: oblique;
+}
+#CV-form{
+    border: 1px solid rgb(184, 182, 182);
+    background-color: rgb(239, 243, 242);
+}
